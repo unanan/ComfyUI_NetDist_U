@@ -1,3 +1,22 @@
+# ComfyUI_NetDist_U
+
+##### ComfyUI_NetDist(Unanan Version) Original repo: https://github.com/city96/ComfyUI_NetDist
+
+##### Improved some issues in this repo
+
+
+### Install
+
+
+### Usage
+
+
+### TODOs
+
+
+- Original README below:
+
+---
 # ComfyUI_NetDist
 Run ComfyUI workflows on multiple local GPUs/networked machines.
 
